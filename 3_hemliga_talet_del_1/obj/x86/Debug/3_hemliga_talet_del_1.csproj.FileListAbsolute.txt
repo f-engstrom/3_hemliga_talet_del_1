@@ -1,0 +1,6 @@
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/obj/x86/Debug/3_hemliga_talet_del_1.csprojAssemblyReference.cache
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/obj/x86/Debug/3_hemliga_talet_del_1.csproj.CoreCompileInputs.cache
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/bin/Debug/3_hemliga_talet_del_1.exe
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/bin/Debug/3_hemliga_talet_del_1.pdb
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/obj/x86/Debug/3_hemliga_talet_del_1.exe
+/Users/fransengstrom/Projects/3_hemliga_talet_del_1/3_hemliga_talet_del_1/obj/x86/Debug/3_hemliga_talet_del_1.pdb
